@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CharelsWang/CharelsWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying in the University of Sydney
-- 🌱 I’m currently learning a lot
--->
+🔭 I’m currently studying in the University of Sydney, B. o Comm. Majoring in Finance and Business analytics
+🌱 I’m currently learning a lot (choice modelling, machine learning, predictive analysis, etc,.)
